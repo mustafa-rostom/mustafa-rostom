@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mustafa-rostom
 - 👀 I’m interested in mobile development field
-- 🌱 I’m currently learning fltter
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me +201153699630
 
 <!---
