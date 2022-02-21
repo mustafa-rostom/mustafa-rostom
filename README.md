@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mustafa-rostom
 - 👀 I’m interested in web development field
-- 🌱 I’m currently learning full stack with MEARN
+- 🌱 I’m currently learning fullstack web development using MEARN
 - 📫 How to reach me +201153699630
 
 <!---
