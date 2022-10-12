@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react.js ,next js and tailwind css**
 
-- 📫 How to reach me **mutafarostom@gmail.com**
+- 📫 How to reach me **mustafa.rostoom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
